@@ -1,5 +1,6 @@
 # SmartSet — Complete Developer Guide & Notebook
-
+## Live Preview
+[View Live Site](https://babafemibank.github.io/smart-set/)
 ## Mobile View
 <img width="120" height="64" alt="Image" src="https://github.com/user-attachments/assets/90c03446-65d4-4ecc-b8df-9d39c8c21034" />
 <img width="239" height="296" alt="Image" src="https://github.com/user-attachments/assets/fe99e345-244f-4a8d-82df-c21b38f93ea9" />
